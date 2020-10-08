@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393197002154",
+    "firebase_url": "https://mycontactjava.firebaseio.com",
+    "project_id": "mycontactjava",
+    "storage_bucket": "mycontactjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393197002154:android:853373478253af55025fd3",
+        "android_client_info": {
+          "package_name": "com.fmohammadi.mycontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393197002154-isvfouecdbglk33ai3q4ubsl7ui8jrp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0B7Qb-tedyzpeaSwKygiJw50HpDKvc8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393197002154-isvfouecdbglk33ai3q4ubsl7ui8jrp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
